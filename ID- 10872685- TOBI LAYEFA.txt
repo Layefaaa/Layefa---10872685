@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html> 
+	<head> 
+		<title> SOME INFO IS NEEDED </title> 
+	</head> 
+	<body> MY NAME IS TOBI LAYEFA, I AM MALE AGED 19 YEARS I ATTEND UNIVERSITY OF GHANA IN PURSUIT OF MY BACHELORS DEGREE IN INFORMATION TECHNOLOGY.
+I WOULD LIKE TO GET SOME INFORMATION FROM YOU FOR A SURVEY. PLEASE HELP ME WITH THE FOLLOWING DETAILS
+	<img src="https://www.linkpicture.com/view.php?img=LPic622620f5c4d58302004256" alt="PROFILE PICTURE" 
+
+         <table border="5" width="100" height="100">
+		
+		<tr>
+			<td>SCHOOL</td>
+			<td>COURSE</td>
+
+		</tr>
+		<tr>
+			<td>Univerity of Ghana</td>
+			<td>BSc Information Technology</td>
+		</tr>
+
+	</table>
+	</body>
+</html>
+
+
+
+<form>
+	<label for="fname">First name:</label><br>
+	<input type="text" id="fname" name="fname"><br>
+	<label for="lname">Last name:</label><br>
+	<input type="text" id="lname" name="lname"><br>
+	<label for="age">Your age:</label><br>
+	<input type="text" id="age" name="age"><br>
+	<label for="phnumber">Phone number:</label><br>
+	<input type="text" id="phnumber" name="phnumber"><br>
+	<label for="gndr">Gender:</label><br>
+	<input type="text" id="gndr" name="gndr"><br>
+	<label for="IDT">ID Type:</label><br>
+	<input type="text" id="IDT" name="IDT"><br>
+	<label for="IDN">ID Number:</label><br>
+	<input type="text" id="IDN" name="IDN"><br>
+ 
